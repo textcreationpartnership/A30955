@@ -1,0 +1,234 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Parerga</title>
+            <author>Barksdale, Clement, 1609-1687.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A30955</idno>
+            <idno type="STC">Wing B805</idno>
+            <idno type="STC">ESTC R25860</idno>
+            <idno type="EEBO-CITATION">09234288</idno>
+            <idno type="OCLC">ocm 09234288</idno>
+            <idno type="VID">42561</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A30955)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42561)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1300:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Parerga</title>
+                  <author>Barksdale, Clement, 1609-1687.</author>
+                  <author>Barksdale, Clement, 1609-1687. A short view of Suffolk and Glocester-shire.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"I. Suffolk and Glocester-shire, ii. An Oxford-conference, iii.  A winter nights exercise, iv. Elogia Camdeniana, v. A paper-monument."</note>
+                  <note>Attributed to Clement Barksdale--NUC pre-1956 imprints.</note>
+                  <note>Imperfect: only "A short view of Suffolk and Glocester-shire" present.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Suffolk (England) --  Description and travel.</term>
+               <term>Gloucestershire (England) --  Description and travel.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:42561:1"/>
+            <pb facs="tcp:42561:1" rendition="simple:additions"/>
+            <p>PARERGA.</p>
+            <list>
+               <item>I. <hi>Suffolk</hi> and <hi>Gloceſter-ſhire.</hi>
+               </item>
+               <item>ii. An <hi>Oxford-Conference.</hi>
+               </item>
+               <item>iii. A <hi>Winter-nights Exerciſe.</hi>
+               </item>
+               <item>iv. ELOGIA CAMDENIANA.</item>
+               <item>v. A <hi>Paper-Monument.</hi>
+               </item>
+            </list>
+            <q xml:lang="lat">Prodeſſe &amp; Delectare.</q>
+            <p>An. MDCLX.</p>
+         </div>
+      </front>
+      <group>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:42561:2" rendition="simple:additions"/>
+                  <pb facs="tcp:42561:2"/>
+                  <p>A SHORT VIEW OF SUFFOLK AND <hi>GLOCESTER-SHIRE.</hi>
+                  </p>
+                  <q xml:lang="lat">Tecum habita.</q>
+                  <p>Printed <hi>An. Dom.</hi> MDCLX.</p>
+               </div>
+            </front>
+            <body>
+               <div type="text">
+                  <pb facs="tcp:42561:3"/>
+                  <pb n="1" facs="tcp:42561:3"/>
+                  <head>A Short View OF <hi>Suffolk</hi> and <hi>Gloceſter-ſhire. Ex Illuſtri Autore</hi> GUIL. CAMDENO.</head>
+                  <div n="Suffolk" type="county">
+                     <head>SUFFOLK</head>
+                     <p n="1">1. <seg rend="decorInit">O</seg>N the South of <hi>Norfolk,</hi> hath <hi>Cambridge</hi> on the Weſt, di<g ref="char:EOLhyphen"/>vided from <hi>Eſſex</hi> Southward by the River <hi>Stow,</hi> the <hi>German</hi> Ocean beating on the Eaſt; two Rivers, <hi>little Ouſe</hi> and <hi>VVaveny,</hi> running ſeverall wayes from the ſame Springs between <hi>Norfolk</hi> and it.</p>
+                     <p n="2">2. A Region large, harborous, of a rich ſoil except Eaſtward, fruitfull corne-fields, and good paſtures, and meadows for fatting cattel, abound<g ref="char:EOLhyphen"/>ing in cheeſe, and not without woods, and many Parks for Deer adjoyning to Noble Houſes.</p>
+                     <p n="3">3. The politick or civil Diſtribution of this <hi>County</hi> is into 3 Parts, The <hi>Geldable,</hi> St. <hi>Edmunds</hi> Liberty, and St. <hi>Etheldreds.</hi>
+                     </p>
+                     <p n="3">
+                        <pb n="2" facs="tcp:42561:4"/>3. Near <hi>Cambridg-ſhire</hi> is ſeated <hi>Ixning,</hi> of leſſer fame now then heretofore, by reaſon of the vicinity of <hi>New-market,</hi> whither the Trade is carried. <hi>New-market Heath</hi> is a large and ſpa<g ref="char:EOLhyphen"/>cious Plain, barren and ſandy, but green; here men admire at <hi>Devils dike,</hi> as if the Devil had made it, whereas no doubt it was but a Trench made of old by the Inhabitants of this Country, againſt the Incurſions of their Enemies.</p>
+                     <p n="5">5. Onward is St. <hi>Edmunds Bury,</hi> a famous Town, ſo called from <hi>Edmund,</hi> a moſt Chriſtian King, whoſe body, after he was cruelly ſlain by the <hi>Danes,</hi> was here interred. It flouriſhed much, which K. <hi>Canute</hi> had repaired, and new built the Church, offered his Crown to the holy Martyr, brought in <hi>Monks</hi> with their <hi>Abbot,</hi> and beſtowed many Lands upon them, and among the reſt, the Town it ſelf. Of the Town and Mo<g ref="char:EOLhyphen"/>naſtery, while it ſtood, hear <hi>Lelands</hi> Teſtimony, an Eye-witneſs, <hi>Sol non vidit urbem ſitu elegantiorem, ſic molli delicata pendet in clivo, &amp; ridulus ad Ori<g ref="char:EOLhyphen"/>entem defluit; aut Coenobium illuſtrius,</hi> &amp;c.</p>
+                     <p n="6">6. Near unto <hi>Bury</hi> appears <hi>Ruſhbrook,</hi> the Seat of the noble Family of the <hi>Iermins:</hi> and not far off <hi>Ikesworth,</hi> and more on the North <hi>Fernham;</hi> and near it <hi>Lidgate,</hi> a Village not to be paſſed by in ſilence, being ennobled by the birth of <hi>Iohn Lidgate</hi> Monk, whoſe wit the Muſes themſelves framed and adorned, his <hi>Engliſh Poems</hi> are of ſuch grace and elegancy. Thus of the Weſtern part,</p>
+                     <p n="8">8. On the South, <hi>Stour,</hi> nigh the Fountain,
+<pb n="3" facs="tcp:42561:4"/>
+overflows, and makes <hi>Stour-mere,</hi> and then collecting his waters within banks, viſits <hi>Clare,</hi> a noted Town, which ſhews you the ruines of an old Caſtle. Thence by <hi>long Melford</hi> rejoycing to ſee the fair Hoſpitall built there by Sr. <hi>VVilliam Cordall,</hi> he paſſeth on to <hi>Sudbury</hi> (Southbury) once the chief Town of this Shire, and yet will not eaſily yield priority to any other: for it is populous, and a rich clothing Town, governed by a Major yearly choſen out of ſeven Aldermen.</p>
+                     <p n="8">8. <hi>Edwardſton</hi> is not far off, a Town of ſmall note now, and after a few miles <hi>Stour</hi> is en<g ref="char:EOLhyphen"/>creaſed by the acceſs of the little river <hi>Breton,</hi> which, in no long courſe, waſhes two Towns of ancient Names; near the ſprings, <hi>Bretenham,</hi> now a little one, and having no face of a City; and ſomewhat Eaſtward, <hi>Ofton, i. e.</hi> the Town of <hi>Offa</hi> K. of <hi>Mercians;</hi> beneath which is <hi>Hadley,</hi> a Town of good note for clothing.</p>
+                     <p n="9">9. <hi>Stour</hi> having received <hi>Breton</hi> runs down with it, not far from <hi>Bentley,</hi> and after a few miles near <hi>Arwenton,</hi> the Seat of the illuſtrious Family of the <hi>Parkers,</hi> drowns himſelf in the Ocean, meeting with the river <hi>Orwell</hi> or <hi>Gipping.</hi>
+                     </p>
+                     <p n="10">10. <hi>Orwell</hi> floweth even out of the belly of this Country, from two Fountains, the one near <hi>VVulpet,</hi> a Market Town <hi>(Luporum foſſa)</hi> the other at <hi>Gipping</hi> a poor Village. At <hi>Norton,</hi> by it, K. <hi>Henry</hi> 8. ſought for Golden Mines in vain, and the pits ſpeak as much.</p>
+                     <p n="11">11. Along the ſame River are ſeen <hi>Stow,</hi> and <hi>Needham,</hi> two Market Towns, and <hi>Himingston</hi>
+                        <pb n="4" facs="tcp:42561:5"/>
+almoſt on the bank of it, where <hi>Baldwin le Pet<g ref="char:EOLhyphen"/>ture</hi> held Lands by a ſtrange merry Tenure, <hi>per ſaltum, ſufflum, &amp; pettum.</hi>
+                     </p>
+                     <p n="12">12. Nearer the mouth of it appears <hi>Ipſwich</hi> (of old <hi>Gippewich,</hi>) of an humble ſite, the eye, as it were, of this County, a commodious Haven, a great Market-Town of trade, a great multitude of Inhabitants, beautified with Fourteen Churches, and many fair and magnificent Buildings. The Corporation conſiſts of Twelve Burgeſſes (called <hi>Portmen</hi>) of which the chief are two <hi>Bailieffs</hi> choſen yearly, and as many Iuſtices out of Twenty-four others. Thus for the Southern part.</p>
+                     <p n="13">13. The Eaſtern Coaſts upon the Sea, run<g ref="char:EOLhyphen"/>ning toward the North. The River <hi>Deben</hi> riſeth near <hi>Mendleſham</hi> a market Town, thence viſiteth and gives name to <hi>Debenham,</hi> from the deep waies round about it: afterwards it runns by <hi>Vfford</hi> and <hi>Rendoleſham</hi> on the other ſide, and ſo to <hi>VVoodbridge,</hi> delighted with the neatneſs of the Town; and then after a few miles is enter<g ref="char:EOLhyphen"/>tained by the Ocean, at <hi>Badſway</hi> Haven.</p>
+                     <p n="14">14. Now the Shore advanceth a little Eaſt<g ref="char:EOLhyphen"/>ward, at the mouth of the river <hi>Orns,</hi> which hath its riſe near <hi>Framlingham</hi> Caſtle, and pre<g ref="char:EOLhyphen"/>ſently ſpreads it ſelf as it were into a Lake, on <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>he Weſt ſide thereof. This is a very fair Caſtle, and well fortified, with thirteen Turrets in a great thick wall, and within are many conve<g ref="char:EOLhyphen"/>nient handſome Lodgings. <hi>Orns</hi> having waſhed a little Town <hi>Parham,</hi> and then <hi>Glemham,</hi> gives
+<pb n="5" facs="tcp:42561:5"/>
+name to <hi>Oreford,</hi> and near it falls into the Sea,</p>
+                     <p n="15">15. <hi>Oreford</hi> was a large and populous Town, but now complains of the ungratefull Ocean, for withdrawing himſelf, and envying her the commodity of her Haven by little and little. In the time of King <hi>Henry,</hi> there is a ſtory, how the Fiſhermen here caught in their nets a wilde creature, repreſenting in all parts the ſhape of a man, with a long beard, and much rough hair on his breaſt; who, at laſt ſecretly eſcaped to the Sea, and was ſeen no more.</p>
+                     <p n="16">16. Not much higher, in a ſafe and pleaſant Site, lies <hi>Alburg,</hi> between the Vally <hi>Slangden,</hi> where the Sea beats on the Eaſt, and the River on the Weſt; a Station for Mariners and Fiſher<g ref="char:EOLhyphen"/>men not incommodious, nor unfrequented: Hard by, when the Harveſt was ſpoiled all <hi>England</hi> over by unſeaſonable weather, in the Year 1555. Peale grew up miraculouſly, with<g ref="char:EOLhyphen"/>out any earth, amongſt the ſtones, in the beginning of Autumn, and abated the price of Corne, as the Inhabitants relate; Some conjecture, that Pulſe by ſhipwracks is caſt upon the ſhore, and ſo uſes to grow without any miracle. But the like ſpontaneous Harveſt we have obſerved to be on the ſhore of Kent every year.</p>
+                     <p n="17">17. Ten miles further, along the Sea-coaſt you come to <hi>Dunwich,</hi> where <hi>An.</hi> 630. <hi>Felix</hi> the <hi>Burgundian</hi> fixt his Epiſcopall See, and his Succeſſors a long time governed all the Eaſt of <hi>England;</hi> but now the violence of the waves
+<pb n="6" facs="tcp:42561:6"/>
+having carryed away the greateſt part of it, the Biſhops having many ages ſince removed their Chair thence; It ſits in ſadneſs, and al<g ref="char:EOLhyphen"/>moſt in ſolitude. A little higher the River <hi>Blith</hi> emptieth it felf into the Sea, on whoſe bank is ſeated a ſmall Town, <hi>Blithborow,</hi> which hath a Market by favour of <hi>Iohn</hi> Lord <hi>Clavering.</hi>
+                     </p>
+                     <p n="18">18. Here runns farther into the Eaſt, the Promontory <hi>Eaſton-neſs,</hi> eſteemed the moſt Ea<g ref="char:EOLhyphen"/>ſtern point of all <hi>Britain;</hi> and is called by <hi>Ptolomy, Extenſio.</hi> On the South of it lies <hi>Southwold</hi> in a plain open to the Sea; a Town frequented for the Havens ſake, which the river <hi>Blith</hi> entring the ſea, makes there; and when the Tide comes, ſo ſur<g ref="char:EOLhyphen"/>rounded with the waters, that it ſeemeth an Iland, and you would wonder it is not overflown. More inward you have <hi>VVingfield</hi> and <hi>Dunnington:</hi> and not far off <hi>Huntingfeild;</hi> and nearer it <hi>Heven<g ref="char:EOLhyphen"/>ingham,</hi> the ſeat of a Noble Family that have their name thence: at a little diſtance is <hi>Hales<g ref="char:EOLhyphen"/>worth,</hi> now the Seat of the <hi>Alingtons.</hi>
+                     </p>
+                     <p n="19">19. On the North; this Province, as we ſaid, is divided from <hi>Norfolk</hi> by two ſmall Rivers, <hi>Ouſe</hi> and <hi>VVaveney;</hi> both which iſſuing out of a plaſhy place at <hi>Lophamford,</hi> their ſprings being very little diſtant, drive their ſhallow ſtreams divers wayes. Upon <hi>Ouſe,</hi> which runneth Weſt, nothing offers it ſelf on this ſide worthy of me<g ref="char:EOLhyphen"/>mory: upon <hi>VVaveney,</hi> that runneth Eaſt, you ſhall ſee <hi>Hoxon</hi> firſt, enobled by the Martyrdome of <hi>K. Edmund.</hi> Near it, at <hi>Broom,</hi> hath long dwelt the noble Family of <hi>Cornwallis.</hi> Lower is <hi>Eay, i.e.
+<pb n="7" facs="tcp:42561:6"/>
+Iſle,</hi> ſo called, becauſe it is watered round about.</p>
+                     <p n="20">20. Thence <hi>Waveney</hi> runns down by <hi>Flixton</hi> (for <hi>Felixton,</hi> from the firſt Bp. <hi>Felix,</hi> as many other places were alſo named from him) and almoſt encompaſſeth <hi>Bungey.</hi> A little below neer the Bank, you ſhall ſee <hi>Mettingham.</hi> And now <hi>Waveney</hi> approaching to the Sea, and attempting in vain to go two wayes thither, one by the River <hi>Garienis,</hi> another by the Lake <hi>Luthing,</hi> makes a fair <hi>Peninſula,</hi> named by ſome <hi>Lovingland,</hi> by others, more truly, <hi>Luthingland,</hi> from that long and diffuſed Lake, which beginning at the ſhore of the Ocean reacheth to the river <hi>Garienis.</hi>
+                     </p>
+                     <p n="21">21. At the entrance of which <hi>Peninſula</hi> a little Town <hi>Leſtroffe</hi> lies upon the Sea, at the end of it <hi>Gorlston.</hi> Inward upon <hi>Waveny</hi> is ſeated <hi>Somerly,</hi> and higher, where <hi>Garienis</hi> and <hi>Waveny</hi> mingle themſelves <hi>Cnobersburg,</hi> which we now call <hi>Burgh-Castle,</hi> being onely ruined walls, enriched with <hi>Roman</hi> Coynes often found there.</p>
+                     <p>Pariſhes 775.</p>
+                  </div>
+                  <div n="Gloucestershire" type="county">
+                     <pb n="8" facs="tcp:42561:7"/>
+                     <head>GLOCESTER--SHIRE.</head>
+                     <p>
+                        <seg rend="decorInit">T</seg>He primary Seat of the Old <hi>Dobuni,</hi> hath <hi>Monmouth</hi> and <hi>Hereford-ſhire</hi> on the Weſt, <hi>Worceſter-ſhire</hi> on the North, on the Eaſt, <hi>Oxford</hi> and <hi>Warwick-ſhire; Wilt-ſhire</hi> and <hi>Somerſet-ſhire</hi> on the South: a Country pleaſant and fertile, ſtretched forth from the Summer-riſing of the Sun to winter<g ref="char:EOLhyphen"/>ſetting.</p>
+                     <p n="2">2. The more Eaſtern part raiſing it ſelf in Hills is known by the name of <hi>Cotswold;</hi> the midſt is ſunk and fallen into a moſt fruitfull Plain, and watered by the moſt noble River <hi>Severn,</hi> that gives a vital force and verdure unto the Felds: the more Weſtern part beyond <hi>Severn</hi> is all ſhaded with Woods.</p>
+                     <p n="3">3. The Region, ſaith <hi>Malmesbury,</hi> is called from the principall Town, <hi>The Vale of Gloceſter;</hi> all the Land rich in Corn, and abounding in fruit: You may behold the High-wayes ap<g ref="char:EOLhyphen"/>parrelled as it were were with Apple-trees and Pear-trees, not by the induſtry of Plantation, but by the very nature of the Soil. A Region, more than any other Province in <hi>England,</hi> plentifull in Vines, of a more delightfull taſte, the wines being very gratefull to the palate,
+<pb n="9" facs="tcp:42561:7"/>
+and not much inferiour to your <hi>French</hi> wines in ſweetneſs, &amp;c. No marvel ſo many places in theſe parts retain the name of <hi>Vineyards,</hi> yielding wine heretofore; and it is rather to be imputed to the ill-husbandry of the Inhabitants, than the decay of Nature, that there is none preſſed at this day.</p>
+                     <p n="4">4. The more Weſtern part, on the other ſide <hi>Severn</hi> (poſſeſſed of old by the <hi>Silures</hi>) even to the <hi>Wye</hi> (a River running betwixt <hi>Wales</hi> and <hi>England</hi>) is full of deep woods, the <hi>Forreſt of Dean,</hi> ſo called, either from a little Town of that name, or, as I conjecture, from <hi>Arden,</hi> ſignifying both among the <hi>Galls</hi> and <hi>Brittains, a wood:</hi> the Forreſt is now, ſince the Iron<g ref="char:EOLhyphen"/>works there, grown thinner than heretofore.</p>
+                     <p n="5">5. Here is <hi>Avone,</hi> of moſt ancient memory, mentioned by <hi>Antoninus,</hi> now called <hi>Aventon,</hi> a little Village, probably ſo called from <hi>Avon,</hi> which to the <hi>Britains</hi> ſignifies a River.</p>
+                     <p n="6">6. The river <hi>Severn</hi> (Brit. <hi>Huffron</hi>) having gone a long journey in a narrower channel, where it firſt enters this Shire, receives the river <hi>Avon,</hi> and another little ſtream from the Eaſt, between which is ſeated <hi>Tewkesbury,</hi> ſo called from <hi>Theoc</hi> the Hermite here, a large and fair Town, having three Bridges, noted for clothing, and whoſe Muſtard for biting is become Proverbial, being made up in balls.</p>
+                     <p n="7">7. Lower, on the bank of <hi>Severn,</hi> lies <hi>Deorhist,</hi> and ſuffers much damage by the
+<pb n="10" facs="tcp:42561:8"/>
+overflowing of the river, when it ſwells. Here in the midſt of <hi>Severn is At<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ey,</hi> now the <hi>Eight, i. e.</hi> Iſland, famous for the ſingle Combate of <hi>Edmund</hi> the <hi>Engliſh</hi> King and <hi>Canute</hi> the <hi>Dane.</hi>
+                     </p>
+                     <p n="8">8. <hi>Severn</hi> goes on in a winding courſe, and dividing it ſelf, to make an Iſland of the green and fertile meadowes, waſhes the City <hi>Glocester,</hi> which <hi>Antonine</hi> calls <hi>Glevum,</hi> the Britains <hi>Caer Glowi,</hi> i. e. <hi>The Fair City.</hi> It was built by the <hi>Romans,</hi> to awe the <hi>Silures,</hi> and a Colony was brought thither, named <hi>Colonia Glevum.</hi> The City is built along upon the river, and the other ſide is in part fortified by a very ſtrong wall. The Streets are indeed very neat; and they were adorned with many Churches: The principall Church, or <hi>Colledge,</hi> was built by <hi>Aldred</hi> Archbiſhop of <hi>York,</hi> and had a Dean, with 6 Prebendaries: above the Quire, there is a ſemicircular vault, a <hi>Whiſpering-place,</hi> built with that artifice, that a very ſoft voice is conveyed between the walls, from one end to the other, to the admiration of the hearers.</p>
+                     <p n="9">9. <hi>Severn</hi> bidding farewell to <hi>Glocester,</hi> u<g ref="char:EOLhyphen"/>niteth her divided forces, and fighteth often with a violent Tide, and bends her courſe to the Ocean, on the way viſiting <hi>Barkley,</hi> a Town of good note, having a Major to govern it, and a Caſtle, honoured by the ancient Nobility of her Lords, the Barons of <hi>Barkley.</hi>
+                     </p>
+                     <p n="10">10. Near unto this, a little rivet <hi>Aven</hi> runs into the <hi>Severn</hi> Sea, at whoſe ſprings, ſcarce
+<pb n="11" facs="tcp:42561:8"/>
+eight miles off the ſhore, near the Village <hi>Al<g ref="char:EOLhyphen"/>derley</hi> are bred ſtones in the ſhape of Cockles and Oyſters, which, whether they were living creatures once, or are onely the ſports of wanton nature, let the <hi>Phyſiologers</hi> enquire.</p>
+                     <p n="11">11. Now let us climb the Hills, and view <hi>Cotswold,</hi> ſo called from the hills (for <hi>wold</hi> ſignifies a Hill, and the <hi>Cotes</hi> or Folds of ſheep, famous for their ſoft and fine wooll through all Nations. Under theſe hills are ſheltred ſe<g ref="char:EOLhyphen"/>veral places of eſpecial mark.</p>
+                     <p n="12">12. <hi>Campden,</hi> or <hi>Camden,</hi> a Market Town of of note: <hi>Hales,</hi> once a moſt flouriſhing Monaſtry, famous for that <hi>Alexander of Hales,</hi> the <hi>Coryphoeus</hi> and chief of Schoolmen: <hi>Sudeley,</hi> a moſt elegant Caſtle (the ſtately Houſe of the Illuſtrious Lord <hi>George,</hi> late Lord <hi>Chandos</hi> Baron of <hi>Sudeley:) VVinchcomb,</hi> an ancient populous Town (but very poor now, were it not for the Plantation of Tobacco) where <hi>Kenulph</hi> the <hi>Mercian</hi> King erected a fair Monaſtry, famed for the Reliques of <hi>Kenelm,</hi> a Childe traiterouſly made away by his Siſter, and inſerted into the Catalogue of Ma tyrs.</p>
+                     <p n="13">1r3. Near the Eaſtern bounds of this County is to be ſeen that celebrious <hi>Roman</hi> way, called the <hi>Foſſe,</hi> which comes from <hi>Warwick-Shire,</hi> by <hi>Lemington,</hi> a Station of the <hi>Romans,</hi> (as the <hi>Roman</hi> Coyns there found ſeem to teſtifie) and then by <hi>Stow on the wold,</hi> expoſed to the cold windes, and <hi>Northleach</hi> (waſhed by a rivulet of the ſame appellation) to <hi>Cirenceſter</hi> or <hi>Ciciter.</hi>
+                     </p>
+                     <p n="14">
+                        <pb n="12" facs="tcp:42561:9"/>14. <hi>Ciciter,</hi> a Town of very great Antiquity, <hi>Corinum</hi> in <hi>Ptolomy,</hi> exactly 15 Miles from the <hi>Gloc,</hi> taking the name from the river <hi>Corinus,</hi> or <hi>Churne</hi> (which runns on the South of it, and affords opportunity of Mills) was a place of great dignity, as the <hi>Roman</hi> coyns, Marbles, and other Monuments often found there, do prove. The Fourth part ſcarce is now inha<g ref="char:EOLhyphen"/>bited, the reſt turned into Fields, and ruines of an old Religious Houſe, built as they ſay by the <hi>Saxons.</hi> The Inhabitants are enriched by clothing, and thankfully remember the bounty of K. <hi>Richard</hi> the firſt, who gave them power over 7 adjacent Hundreds, to hear Cauſes, and receive Mulcts and other Emoluments thereby.</p>
+                     <p n="15">15. Among the Dukes of <hi>Gloceſter</hi> moſt me<g ref="char:EOLhyphen"/>morable is <hi>Humphry</hi> brother to the renowned King <hi>Henry</hi> the fift; a man of high deſert toward the Commonwealth of Learning:</p>
+                  </div>
+                  <trailer>FINIS.</trailer>
+                  <pb facs="tcp:42561:9"/>
+               </div>
+            </body>
+         </text>
+      </group>
+   </text>
+</TEI>
